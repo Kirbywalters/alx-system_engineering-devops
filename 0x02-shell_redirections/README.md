@@ -1,1 +1,1 @@
-README file on shell directions
+shell directions
