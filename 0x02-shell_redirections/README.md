@@ -1,1 +1,1 @@
-README file on dhell directions
+README file on shell directions
